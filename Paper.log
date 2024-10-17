@@ -1,0 +1,401 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.3.31)  16 JUN 2022 16:35
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./Paper.tex
+(Paper.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-24>
+(D:\Program Files\MikTex\tex/latex/ieeetran\IEEEtran.cls
+Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen138
+\@IEEEtrantmpdimenB=\dimen139
+\@IEEEtrantmpdimenC=\dimen140
+\@IEEEtrantmpcountA=\count185
+\@IEEEtrantmpcountB=\count186
+\@IEEEtrantmpcountC=\count187
+\@IEEEtrantmptoksA=\toks16
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 5
+03.
+(D:\Program Files\MikTex\tex/latex/psnfss\ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen141
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen142
+\CLASSINFOnormalsizeunitybaselineskip=\dimen143
+\IEEEnormaljot=\dimen144
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+\IEEEquantizedlength=\dimen145
+\IEEEquantizedlengthdiff=\dimen146
+\IEEEquantizedtextheightdiff=\dimen147
+\IEEEilabelindentA=\dimen148
+\IEEEilabelindentB=\dimen149
+\IEEEilabelindent=\dimen150
+\IEEEelabelindent=\dimen151
+\IEEEdlabelindent=\dimen152
+\IEEElabelindent=\dimen153
+\IEEEiednormlabelsep=\dimen154
+\IEEEiedmathlabelsep=\dimen155
+\IEEEiedtopsep=\skip47
+\c@section=\count188
+\c@subsection=\count189
+\c@subsubsection=\count190
+\c@paragraph=\count191
+\c@IEEEsubequation=\count192
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\c@figure=\count193
+\c@table=\count194
+\@IEEEeqnnumcols=\count195
+\@IEEEeqncolcnt=\count196
+\@IEEEsubeqnnumrollback=\count197
+\@IEEEquantizeheightA=\dimen156
+\@IEEEquantizeheightB=\dimen157
+\@IEEEquantizeheightC=\dimen158
+\@IEEEquantizeprevdepth=\dimen159
+\@IEEEquantizemultiple=\count198
+\@IEEEquantizeboxA=\box50
+\@IEEEtmpitemindent=\dimen160
+\IEEEPARstartletwidth=\dimen161
+\c@IEEEbiography=\count199
+\@IEEEtranrubishbin=\box51
+) (D:\Program Files\MikTex\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(D:\Program Files\MikTex\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(D:\Program Files\MikTex\tex/latex/graphics\graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(D:\Program Files\MikTex\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(D:\Program Files\MikTex\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(D:\Program Files\MikTex\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen162
+\Gin@req@width=\dimen163
+)
+(D:\Program Files\MikTex\tex/latex/subfigure\subfigure.sty
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip50
+\subfigcapskip=\skip51
+\subfigcaptopadj=\dimen164
+\subfigbottomskip=\skip52
+\subfigcapmargin=\dimen165
+\subfiglabelskip=\skip53
+\c@subfigure=\count266
+\c@lofdepth=\count267
+\c@subtable=\count268
+\c@lotdepth=\count269
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(D:\Program Files\MikTex\tex/latex/subfigure\subfigure.cfg)
+\subfig@top=\skip54
+\subfig@bottom=\skip55
+)
+(D:\Program Files\MikTex\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(D:\Program Files\MikTex\tex/latex/tools\array.sty
+Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen166
+\ar@mcellbox=\box52
+\extrarowheight=\dimen167
+\NC@list=\toks18
+\extratabsurround=\skip56
+\backup@length=\skip57
+\ar@cellbox=\box53
+)
+(D:\Program Files\MikTex\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count270
+\l__pdf_internal_box=\box54
+) (Paper.aux
+
+LaTeX Warning: Label `fig:The-caption' multiply defined.
+
+
+LaTeX Warning: Label `fig:The-caption' multiply defined.
+
+
+LaTeX Warning: Label `fig:The-caption' multiply defined.
+
+
+LaTeX Warning: Label `fig:The-caption' multiply defined.
+
+
+LaTeX Warning: Label `fig:The-caption' multiply defined.
+
+)
+\openout1 = `Paper.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+
+-- Lines per column: 56 (exact).
+(D:\Program Files\MikTex\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count271
+\scratchdimen=\dimen168
+\scratchbox=\box55
+\nofMPsegments=\count272
+\nofMParguments=\count273
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count274
+\MPscratchDim=\dimen169
+\MPnumerator=\count275
+\makeMPintoPDFobject=\count276
+\everyMPtoPDFconversion=\toks20
+) (D:\Program Files\MikTex\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(D:\Program Files\MikTex\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 109.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 109.
+ [1{C:/Users/husai/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
+
+
+]
+<Flow chart.png, id=10, 293.6571pt x 533.1117pt>
+File: Flow chart.png Graphic file (type png)
+<use Flow chart.png>
+Package pdftex.def Info: Flow chart.png  used on input line 151.
+(pdftex.def)             Requested size: 256.07109pt x 435.3404pt.
+
+Overfull \hbox (4.07109pt too wide) in paragraph at lines 151--152
+ [][] 
+ []
+
+<ProtC1.png, id=11, 452.892pt x 257.763pt>
+File: ProtC1.png Graphic file (type png)
+<use ProtC1.png>
+Package pdftex.def Info: ProtC1.png  used on input line 160.
+(pdftex.def)             Requested size: 241.84218pt x 142.26959pt.
+<ProtC2.png, id=13, 452.892pt x 251.9814pt>
+File: ProtC2.png Graphic file (type png)
+<use ProtC2.png>
+Package pdftex.def Info: ProtC2.png  used on input line 165.
+(pdftex.def)             Requested size: 241.84218pt x 142.26978pt.
+<ProtC3.png, id=14, 452.892pt x 250.0542pt>
+File: ProtC3.png Graphic file (type png)
+<use ProtC3.png>
+Package pdftex.def Info: ProtC3.png  used on input line 169.
+(pdftex.def)             Requested size: 241.84218pt x 142.26527pt.
+[2] [3 <./Flow chart.png> <./ProtC1.png> <./ProtC2.png> <./ProtC3.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 183--184
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 195--198
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 203--204
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 203--204
+
+ []
+
+<Husain.png, id=25, 604.50844pt x 482.55281pt>
+File: Husain.png Graphic file (type png)
+<use Husain.png>
+Package pdftex.def Info: Husain.png  used on input line 208.
+(pdftex.def)             Requested size: 241.8452pt x 199.16592pt.
+<Aryan.png, id=26, 605.26125pt x 478.78876pt>
+File: Aryan.png Graphic file (type png)
+<use Aryan.png>
+Package pdftex.def Info: Aryan.png  used on input line 213.
+(pdftex.def)             Requested size: 241.85085pt x 199.1685pt.
+<Un.png, id=27, 605.26125pt x 478.78876pt>
+File: Un.png Graphic file (type png)
+<use Un.png>
+Package pdftex.def Info: Un.png  used on input line 218.
+(pdftex.def)             Requested size: 241.85085pt x 199.1685pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 222--224
+
+ []
+
+[4 <./Husain.png> <./Aryan.png> <./Un.png>]
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.227 			\caption
+                 {Accuracy Table:}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (3.25786pt too wide) in paragraph at lines 227--236
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 287--288
+[]\OT1/ptm/m/n/8 \DB9 changer datasheet PDF," DB9 Datasheet
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 287--288
+\OT1/ptm/m/n/8 | ETC - Datasheet-spdf.com. [On-line]. Avail-able:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 290--291
+\OT1/ptm/m/n/8 Avail-able: https://circuitdigest.com/article/16x2-lcd-display-m
+odule-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 298--299
+[]\OT1/ptm/m/n/8 \Temperature mea-sure-ment us-ing LM35 and AVR mi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 298--299
+\OT1/ptm/m/n/8 cro-con-troller," Max-Phi, 16-Sep-2017. [On-line]. Avail-able:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 298--299
+\OT1/ptm/m/n/8 https://www.maxphi.com/temperature-measurement-using-lm35-and-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 301--302
+[]\OT1/ptm/m/n/8 \Servo Mo-tor SG-90," Com-po-nents101. [On-line]. Avail-able:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 301--302
+\OT1/ptm/m/n/8 https://components101.com/motors/servo-motor-basics-pinout-datas
+heet.
+ []
+
+
+** Conference Paper **
+Before submitting the final camera ready copy, remember to:
+
+ 1. Manually equalize the lengths of two columns on the last page
+ of your paper;
+
+ 2. Ensure that any PostScript and/or PDF output post-processing
+ uses only Type 1 fonts and that every step in the generation
+ process uses the appropriate paper size.
+
+[5] (Paper.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2495 strings out of 478582
+ 43328 string characters out of 2854159
+ 351603 words of memory out of 3000000
+ 20688 multiletter control sequences out of 15000+600000
+ 501965 words of font info for 79 fonts, out of 8000000 for 9000
+ 1145 hyphenation exceptions out of 8191
+ 55i,8n,62p,1026b,261s stack positions out of 10000i,1000n,20000p,200000b,80000s
+{D:/Program Files/MikTex/fonts/enc/dvips/base/8r.enc}<D:/Program Files/MikTex
+/fonts/type1/public/amsfonts/cm/cmsy7.pfb><D:/Program Files/MikTex/fonts/type1/
+urw/times/utmb8a.pfb><D:/Program Files/MikTex/fonts/type1/urw/times/utmbi8a.pfb
+><D:/Program Files/MikTex/fonts/type1/urw/times/utmr8a.pfb><D:/Program Files/Mi
+kTex/fonts/type1/urw/times/utmri8a.pfb>
+Output written on Paper.pdf (5 pages, 3319535 bytes).
+PDF statistics:
+ 59 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+

@@ -1,0 +1,6 @@
+Product       : Virtual Serial Ports Emulator
+Version       : 1.1.5.458
+Release date  : Oct 11, 2021
+(c) 2008-2021 Eterlogic.com. All rights reserved.
+Please visit our web page: http://www.eterlogic.com
+Thank you for using Eterlogic.com products!

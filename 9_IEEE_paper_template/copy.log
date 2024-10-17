@@ -1,0 +1,492 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.3.31)  25 MAY 2022 18:55
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./copy.tex
+(copy.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-24> (IEEEtran.cls
+Document Class: IEEEtran 2007/03/05 V1.7a by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen138
+\@IEEEtrantmpdimenB=\dimen139
+\@IEEEtrantmpcountA=\count185
+\@IEEEtrantmpcountB=\count186
+\@IEEEtrantmptoksA=\toks16
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 3
+66.
+(D:\Program Files\MikTex\tex/latex/psnfss\ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen140
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen141
+\CLASSINFOnormalsizeunitybaselineskip=\dimen142
+\IEEEnormaljot=\dimen143
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+\IEEEilabelindentA=\dimen144
+\IEEEilabelindentB=\dimen145
+\IEEEilabelindent=\dimen146
+\IEEEelabelindent=\dimen147
+\IEEEdlabelindent=\dimen148
+\IEEElabelindent=\dimen149
+\IEEEiednormlabelsep=\dimen150
+\IEEEiedmathlabelsep=\dimen151
+\IEEEiedtopsep=\skip47
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@IEEEsubequation=\count191
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\c@figure=\count192
+\c@table=\count193
+\@IEEEeqnnumcols=\count194
+\@IEEEeqncolcnt=\count195
+\@IEEEtmpitemindent=\dimen152
+\c@IEEEbiography=\count196
+\@IEEEtranrubishbin=\box50
+) (D:\Program Files\MikTex\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(D:\Program Files\MikTex\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(D:\Program Files\MikTex\tex/latex/graphics\graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(D:\Program Files\MikTex\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(D:\Program Files\MikTex\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(D:\Program Files\MikTex\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen153
+\Gin@req@width=\dimen154
+) (subfigure.sty
+\c@subfigure=\count197
+)
+(D:\Program Files\MikTex\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(D:\Program Files\MikTex\tex/latex/tools\array.sty
+Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen155
+\ar@mcellbox=\box51
+\extrarowheight=\dimen156
+\NC@list=\toks18
+\extratabsurround=\skip50
+\backup@length=\skip51
+\ar@cellbox=\box52
+)
+(D:\Program Files\MikTex\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count198
+\l__pdf_internal_box=\box53
+) (copy.aux
+
+LaTeX Warning: Label `fig:The-caption' multiply defined.
+
+
+LaTeX Warning: Label `fig:The-caption' multiply defined.
+
+
+LaTeX Warning: Label `fig:The-caption' multiply defined.
+
+
+LaTeX Warning: Label `fig:The-caption' multiply defined.
+
+
+LaTeX Warning: Label `fig:The-caption' multiply defined.
+
+)
+\openout1 = `copy.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+ (D:\Program Files\MikTex\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count199
+\scratchdimen=\dimen157
+\scratchbox=\box54
+\nofMPsegments=\count266
+\nofMParguments=\count267
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count268
+\MPscratchDim=\dimen158
+\MPnumerator=\count269
+\makeMPintoPDFobject=\count270
+\everyMPtoPDFconversion=\toks20
+) (D:\Program Files\MikTex\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(D:\Program Files\MikTex\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+** ATTENTION: \keywords is deprecated (line 76). Use \IEEEkeywords instead.
+
+Underfull \vbox (badness 1910) has occurred while \output is active []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 110.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 110.
+ [1{C:/Users/husai/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
+
+
+]
+<C:/Users/husai/OneDrive/Desktop/Mini Project//flow chart (1).jpg, id=10, 1173.
+38374pt x 2112.89375pt>
+File: C:/Users/husai/OneDrive/Desktop/Mini Project//flow chart (1).jpg Graphic 
+file (type jpg)
+<use C:/Users/husai/OneDrive/Desktop/Mini Project//flow chart (1).jpg>
+Package pdftex.def Info: C:/Users/husai/OneDrive/Desktop/Mini Project//flow cha
+rt (1).jpg  used on input line 167.
+(pdftex.def)             Requested size: 256.06831pt x 455.23051pt.
+
+Overfull \hbox (4.06831pt too wide) in paragraph at lines 167--168
+ [][] 
+ []
+
+<C:/Users/husai/OneDrive/Desktop/Mini Project//ProtC1.png, id=11, 452.892pt x 2
+57.763pt>
+File: C:/Users/husai/OneDrive/Desktop/Mini Project//ProtC1.png Graphic file (ty
+pe png)
+<use C:/Users/husai/OneDrive/Desktop/Mini Project//ProtC1.png>
+Package pdftex.def Info: C:/Users/husai/OneDrive/Desktop/Mini Project//ProtC1.p
+ng  used on input line 177.
+(pdftex.def)             Requested size: 241.84218pt x 142.26959pt.
+<C:/Users/husai/OneDrive/Desktop/Mini Project//ProtC2.png, id=13, 452.892pt x 2
+51.9814pt>
+File: C:/Users/husai/OneDrive/Desktop/Mini Project//ProtC2.png Graphic file (ty
+pe png)
+<use C:/Users/husai/OneDrive/Desktop/Mini Project//ProtC2.png>
+Package pdftex.def Info: C:/Users/husai/OneDrive/Desktop/Mini Project//ProtC2.p
+ng  used on input line 182.
+(pdftex.def)             Requested size: 241.84218pt x 142.26978pt.
+<C:/Users/husai/OneDrive/Desktop/Mini Project//ProtC3.png, id=14, 452.892pt x 2
+50.0542pt>
+File: C:/Users/husai/OneDrive/Desktop/Mini Project//ProtC3.png Graphic file (ty
+pe png)
+<use C:/Users/husai/OneDrive/Desktop/Mini Project//ProtC3.png>
+Package pdftex.def Info: C:/Users/husai/OneDrive/Desktop/Mini Project//ProtC3.p
+ng  used on input line 187.
+(pdftex.def)             Requested size: 241.84218pt x 142.26527pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--190
+
+ []
+
+
+Underfull \hbox (badness 1502) in paragraph at lines 171--190
+\OT1/ptm/m/n/10 The LCD and LEDs are used as vi-sual in-di-ca-tors for
+ []
+
+[2 <C:/Users/husai/OneDrive/Desktop/Mini Project//flow chart (1).jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 199--201
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 213--216
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+
+ []
+
+<C:/Users/husai/OneDrive/Desktop/Mini Project//Husain.png, id=18, 604.50844pt x
+ 482.55281pt>
+File: C:/Users/husai/OneDrive/Desktop/Mini Project//Husain.png Graphic file (ty
+pe png)
+<use C:/Users/husai/OneDrive/Desktop/Mini Project//Husain.png>
+Package pdftex.def Info: C:/Users/husai/OneDrive/Desktop/Mini Project//Husain.p
+ng  used on input line 230.
+(pdftex.def)             Requested size: 241.8452pt x 199.16592pt.
+<C:/Users/husai/OneDrive/Desktop/Mini Project//Aryan.png, id=19, 605.26125pt x 
+478.78876pt>
+File: C:/Users/husai/OneDrive/Desktop/Mini Project//Aryan.png Graphic file (typ
+e png)
+<use C:/Users/husai/OneDrive/Desktop/Mini Project//Aryan.png>
+Package pdftex.def Info: C:/Users/husai/OneDrive/Desktop/Mini Project//Aryan.pn
+g  used on input line 235.
+(pdftex.def)             Requested size: 241.85085pt x 199.1685pt.
+<C:/Users/husai/OneDrive/Desktop/Mini Project//Un.png, id=20, 605.26125pt x 478
+.78876pt>
+File: C:/Users/husai/OneDrive/Desktop/Mini Project//Un.png Graphic file (type p
+ng)
+<use C:/Users/husai/OneDrive/Desktop/Mini Project//Un.png>
+Package pdftex.def Info: C:/Users/husai/OneDrive/Desktop/Mini Project//Un.png  
+used on input line 240.
+(pdftex.def)             Requested size: 227.61888pt x 199.1685pt.
+[3 <C:/Users/husai/OneDrive/Desktop/Mini Project//ProtC1.png> <C:/Users/husai/O
+neDrive/Desktop/Mini Project//ProtC2.png> <C:/Users/husai/OneDrive/Desktop/Mini
+ Project//ProtC3.png>]
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.244 		\caption
+                {Accuracy Table}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 249--252
+[]|\OT1/ptm/m/n/10 Recognized
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 249--252
+\OT1/ptm/m/n/10 Tem-per-a-ture
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 252--255
+[]|\OT1/ptm/m/n/10 Access Granted
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 252--255
+\OT1/ptm/m/n/10 - Face iden-ti-fied
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 252--255
+\OT1/ptm/m/n/10 and tem-per-a-ture
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 257--260
+[]|\OT1/ptm/m/n/10 Unrecognized
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 257--260
+\OT1/ptm/m/n/10 Tem-per-a-ture
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 260--261
+[]|\OT1/ptm/m/n/10 Access De-nied -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 263--266
+[]|\OT1/ptm/m/n/10 Recognized
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 263--266
+\OT1/ptm/m/n/10 Tem-per-a-ture
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--268
+[]|\OT1/ptm/m/n/10 Access De-nied -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--268
+\OT1/ptm/m/n/10 Tem-per-a-ture too
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 270--273
+[]|\OT1/ptm/m/n/10 Unrecognized
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 270--273
+\OT1/ptm/m/n/10 Tem-per-a-ture
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 273--276
+[]|\OT1/ptm/m/n/10 Access De-nied -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 273--276
+\OT1/ptm/m/n/10 Face uniden-ti-fied
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4 <C:/Users/husai/OneDrive/Desktop/Mini Project//Husain.png> <C:/Users/husai/
+OneDrive/Desktop/Mini Project//Aryan.png> <C:/Users/husai/OneDrive/Desktop/Mini
+ Project//Un.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 333--334
+[]\OT1/ptm/m/n/8 Admin, \Tem-per-a-ture mea-sure-ment us-ing LM35 and AVR
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 333--334
+\OT1/ptm/m/n/8 mi-cro-con-troller," Max-Phi, 16-Sep-2017. [On-line]. Avail-able
+:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 333--334
+\OT1/ptm/m/n/8 https://www.maxphi.com/temperature-measurement-using-lm35-and-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 335--337
+[]\OT1/ptm/m/n/8 Admin, \Tem-per-a-ture mea-sure-ment us-ing LM35 and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 335--337
+\OT1/ptm/m/n/8 AVR mi-cro-con-troller," Max-Phi, 16-Sep-2017. [On-line].
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 335--337
+\OT1/ptm/m/n/8 Avail-able: https://www.maxphi.com/temperature-measurement-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 335--337
+\OT1/ptm/m/n/8 using-lm35-and-avr-microcontroller. [Ac-cessed: 02-Apr-2022].
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 335--337
+\OT1/ptm/m/n/8 \Servo Mo-tor SG-90," Com-po-nents101. [On-line]. Avail-able:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 335--337
+\OT1/ptm/m/n/8 https://components101.com/motors/servo-motor-basics-pinout-datas
+heet.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 338--339
+\OT1/ptm/m/n/8 Avail-able: https://circuitdigest.com/article/16x2-lcd-display-m
+odule-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 340--341
+[]\OT1/ptm/m/n/8 \DB9 changer datasheet PDF," DB9 Datasheet
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 340--341
+\OT1/ptm/m/n/8 | ETC - Datasheet-spdf.com. [On-line]. Avail-able:
+ []
+
+
+** Conference Paper **
+Before submitting the final camera ready copy, remember to:
+
+ 1. Manually equalize the lengths of two columns on the last page
+ of your paper;
+
+ 2. Ensure that any PostScript and/or PDF output post-processing
+ uses only Type 1 fonts and that every step in the generation
+ process uses the appropriate paper size.
+
+[5
+
+] (copy.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2202 strings out of 478582
+ 40039 string characters out of 2854159
+ 340898 words of memory out of 3000000
+ 20399 multiletter control sequences out of 15000+600000
+ 500869 words of font info for 78 fonts, out of 8000000 for 9000
+ 1145 hyphenation exceptions out of 8191
+ 55i,9n,62p,965b,312s stack positions out of 10000i,1000n,20000p,200000b,80000s
+{D:/Program Files/MikTex/fonts/enc/dvips/base/8r.enc}<D:/Program Files/MikTex
+/fonts/type1/public/amsfonts/cm/cmsy7.pfb><D:/Program Files/MikTex/fonts/type1/
+urw/times/utmb8a.pfb><D:/Program Files/MikTex/fonts/type1/urw/times/utmbi8a.pfb
+><D:/Program Files/MikTex/fonts/type1/urw/times/utmr8a.pfb><D:/Program Files/Mi
+kTex/fonts/type1/urw/times/utmri8a.pfb>
+Output written on copy.pdf (5 pages, 3487246 bytes).
+PDF statistics:
+ 58 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+
